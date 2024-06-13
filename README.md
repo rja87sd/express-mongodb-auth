@@ -70,3 +70,6 @@ Create a new repository named express-mongodb-auth. Push your project to the rep
 
 ## Screenshots: 
 Include the screenshot of your POST request in the README.md.
+
+# Credits
+Credit to ChatGPT for assistance and code comments.
